@@ -40,10 +40,8 @@ Problem-solving and coding logic
 </p>
 
 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Hesandu245&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hesandu245&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Top languages" />
-</p>
+![Hesandu245's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hesandu245&show_icons=true&theme=radical&hide_border=true&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hesandu245&layout=compact&theme=radical&hide_border=true&bg_color=00000000)
 
 🔥 Contribution Streak
 <p align="center">
