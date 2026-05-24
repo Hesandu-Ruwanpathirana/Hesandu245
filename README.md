@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hesandu</h1>
+<h1 align="center">Hi 👋, I'm Hesandu Ruwanpathirana</h1>
 <h3 align="center">Aspiring AI Engineer | Student Developer | Always Learning</h3>
 
 <p align="center">
@@ -40,8 +40,6 @@ Problem-solving and coding logic
 </p>
 
 📊 GitHub Stats
-![Hesandu245's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hesandu245&show_icons=true&theme=radical&hide_border=true&bg_color=00000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hesandu245&layout=compact&theme=radical&hide_border=true&bg_color=00000000)
 
 🔥 Contribution Streak
 <p align="center">
