@@ -6,14 +6,14 @@
 <a href="https://www.linkedin.com/in/hesandu-ruwanpathirana-00b0953a5"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-🚀 About Me
+🚀 About Me  
 A first-semester AI engineering student with a strong interest in building the skills and habits needed for a long-term career in technology.
 
 Currently developing a solid foundation in Python, Java, and C, while learning more about data structures, algorithms, and machine learning basics. Alongside technical growth, there is a strong focus on problem-solving, communication, consistency, and staying curious through every stage of the journey.
 
 Still at the beginning, but serious about improving step by step, building real projects, and connecting with people who enjoy learning and creating in tech.
 
-🧠 Currently Learning
+🧠 Currently Learning  
 Python programming and practical projects
 
 Java and object-oriented programming
@@ -26,7 +26,7 @@ Machine learning foundations
 
 Problem-solving and coding logic
 
-🛠️ Tech Stack
+🛠️ Tech Stack  
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -41,17 +41,17 @@ Problem-solving and coding logic
 
 📊 GitHub Stats
 
-🔥 Contribution Streak
+🔥 Contribution Streak  
 <p align="center">
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=Hesandu245&theme=radical&hide_border=true&background=00000000" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=Hesandu-Ruwanpathirana&theme=radical&hide_border=true&background=00000000" alt="GitHub streak" />
 </p>
 
-🏆 GitHub Trophies
+🏆 GitHub Trophies  
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Hesandu245&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Hesandu-Ruwanpathirana&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub trophies" />
 </p>
 
-🎯 Goals
+🎯 Goals  
 Build stronger programming fundamentals
 
 Create more real-world projects
@@ -62,5 +62,5 @@ Improve code quality and consistency
 
 Connect with developers, mentors, and learners in tech
 
-📌 A Simple Reminder
+📌 A Simple Reminder  
 Start small, stay consistent, and keep building.
